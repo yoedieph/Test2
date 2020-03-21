@@ -2,3 +2,5 @@ WPu resolusi
 -konsiten membuat konten
 -membuat platform untuk pengelolaaan video
 -membuat forum diskusi
+-membuat workshop 
+-kolaborasi degnan lebih banyak expert
