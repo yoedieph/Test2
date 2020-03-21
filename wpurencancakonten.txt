@@ -1,4 +1,6 @@
 -video mengenai javascript
+  a. menambahkan detail
+  b. menambahkan framework
 -video php
 -interview
 -membuat vlog
